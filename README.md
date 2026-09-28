@@ -71,9 +71,4 @@ The country dataset may contain missing values and reflects the supplied source 
 - Some examples intentionally demonstrate pandas behavior; read each cell's comments before changing it.
 - Generated sales values in the pivot-table notebook are reproducible because a random seed is set.
 
-## License and data attribution
 
-Add the license and dataset attribution that match your source and permissions before redistributing this repository publicly.
-=======
-# pandas-data-analysis-practice
->>>>>>> fead6317215a96fa27e729273efe8c7369b0a184
