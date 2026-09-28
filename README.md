@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pandas Data Analysis Practice
 
 A collection of beginner-friendly Jupyter notebooks for learning pandas and practicing exploratory data analysis. The notebooks include short explanations, readable comments, and small examples.
